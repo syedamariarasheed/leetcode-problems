@@ -1,7 +1,6 @@
 /* https://leetcode.com/problems/reverse-linked-list/?envType=study-plan&id=level-1 */
 
 fun main(args: Array<String>) {
-    // list # 1
     val li = ListNode(1)
     val l2 = ListNode(2)
     val l3 = ListNode(3)

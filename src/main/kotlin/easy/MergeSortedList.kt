@@ -34,7 +34,3 @@ fun mergeTwoLists(l1: ListNode?, l2: ListNode?): ListNode? {
         l2
     }
 }
-
-class ListNode(var `val`: Int) {
-    var next: ListNode? = null
-}
