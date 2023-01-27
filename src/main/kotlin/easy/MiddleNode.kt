@@ -1,5 +1,5 @@
-package medium
-
+package easy
+// https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=study-plan&id=level-1
 import ListNode
 
 fun main() {
